@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Software Development...Why Not?"
-date:       2018-11-16 16:10:51 +0000
+date:       2018-11-16 11:10:52 -0500
 permalink:  software_development_why_not
 ---
 
@@ -14,4 +14,4 @@ Within the classroom walls, I saw how technology transformed my student's learni
 
 I went on to become an instructional designer and eduational techology coach for a computer science immersion company called Code To The Future.  Essentially, this opened my world to endless possibilities, and I will forever be thankful for this opportunity.  Throughout my experience with Code To The Future, I realized something.  I was pretty good at coding!  Okay, maybe in the beginning stages it was just connecting a bunch of blocks together to make a character move around on screen, but eventually it morphed into Minecraft Modding and developing curriculum for text-based programming.
 
-Which leads me to here, I'm doing this.  I'm taking baby steps, but I'm one hundred percent getting there.  More women programmers, we need them.  I have 8 more months to go, but I'll get there, and feel hopeful unicorns and rainbows will await me as I completed this program and become a full-stack web developer.
+Which leads me to here, I'm doing this.  I'm taking baby steps, but I'm one hundred percent getting there.  More women programmers, we need them.  I have 8 more months to go, but I'll get there, and feel hopeful unicorns and rainbows will await me when I complete this program and become a full-stack web developer.
